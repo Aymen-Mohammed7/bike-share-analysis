@@ -69,7 +69,7 @@ This case study explores behavioral differences between **annual members** and *
 - Created visuals for trends over time, user types, and bike types
 - Included filter panel for dynamic exploration
 
-🖼️ Dashboard Preview:  
+Dashboard Preview:  
 ![Dashboard Screenshot](powerbi/Dashboard.png)
 
 
@@ -87,6 +87,7 @@ This case study explores behavioral differences between **annual members** and *
 ## Recommendations
 
 - Promote memberships during weekends and summer peaks
+- **Introduce a monthly membership plan** to attract casual riders who aren’t ready to commit to an annual plan
 - Offer bundle discounts to casual users
 - Use email campaigns to highlight member benefits
 
@@ -102,5 +103,5 @@ This project is licensed under the [MIT License](LICENSE)
 
 **Aymen Mohammed** — Data Analyst passionate about using data to tell stories and drive business decisions.
 
- [LinkedIn](https://www.linkedin.com/in/ayman-muammer) 
- [GitHub](https://github.com/your-github)
+ [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ayman-muammer) 
+ [GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat)](https://github.com/your-github)
