@@ -72,6 +72,8 @@ This case study explores behavioral differences between **annual members** and *
 Dashboard Preview:  
 ![Dashboard Screenshot](powerbi/Dashboard.png)
 
+Power BI file: [Download from Google Drive](https://drive.google.com/file/d/1X370K5OYe1kqIb4AudRTSHO2NgCl6LC1/view?usp=sharing)
+
 
 ---
 
