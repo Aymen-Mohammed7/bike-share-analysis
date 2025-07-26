@@ -48,7 +48,7 @@ This case study explores behavioral differences between **annual members** and *
   `start_date`, `start_time`, `day_name`, `month_name`, `quarter`, `time_period`
 - Exported cleaned data to `.parquet` for efficient loading in Power BI
 
- Code: [`notebooks/cleaning_eda.ipynb`](notebooks/eda_cleaning.ipynb)
+ Code: [`notebooks/cleaning_eda.ipynb`](notebooks/cleaning_eda.ipynb)
 
 ---
 
